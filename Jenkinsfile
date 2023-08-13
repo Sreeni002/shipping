@@ -1,5 +1,4 @@
 @Library('roboshop') _
 
-env.component="shipping"
-env.schema_dir='schema'
-maven()
+env.component="cart"
+nodejs()
